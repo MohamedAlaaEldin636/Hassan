@@ -8,7 +8,7 @@
 
 ### Provider App
 
-<img src="prov_1.jpeg" width="300"/> <img src="prov_2.jpeg" width="300"/>
+<img src="prov_1.jpg" width="300"/> <img src="prov_2.jpeg" width="300"/>
 
 <img src="prov_3.jpeg" width="300"/> <img src="prov_5.jpeg" width="300"/>
 

@@ -8,19 +8,19 @@
 
 ### Provider App
 
-<img src="prov_1.jpg" width="300"/> <img src="prov_2.jpeg" width="300"/>
+<img src="prov_1.jpg" width="300"/> <img src="prov_2.jpg" width="300"/>
 
-<img src="prov_3.jpeg" width="300"/> <img src="prov_5.jpeg" width="300"/>
+<img src="prov_3.jpg" width="300"/> <img src="prov_5.jpg" width="300"/>
 
-<img src="prov_5.jpeg" width="300"/> <img src="prov_6.jpeg" width="300"/>
+<img src="prov_5.jpg" width="300"/> <img src="prov_6.jpg" width="300"/>
 
 ### User App
 
-<img src="user_1.jpeg" width="300"/> <img src="user_2.jpeg" width="300"/>
+<img src="user_1.jpg" width="300"/> <img src="user_2.jpg" width="300"/>
 
-<img src="user_4.jpeg" width="300"/> <img src="user_5.jpeg" width="300"/>
+<img src="user_4.jpg" width="300"/> <img src="user_5.jpg" width="300"/>
 
-<img src="user_5.jpeg" width="300"/> <img src="user_6.jpeg" width="300"/>
+<img src="user_5.jpg" width="300"/> <img src="user_6.jpg" width="300"/>
 
 
 
